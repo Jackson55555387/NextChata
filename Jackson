@@ -1,0 +1,5 @@
+包装安装git python-y
+git克隆https://github.com/THUDM/ChatGLM-6B.git
+CD ChatGLM-6B
+PIP安装-r要求.txt
+Python web_demo.py
